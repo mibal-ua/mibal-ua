@@ -2,6 +2,7 @@
 <code>👷 Speciality: Software engineer</code>
 <br>
 <code>🧑‍💻 Languages: Java, JavaScript, C</code>
+<br>
 <code>📦 Tech stack: Spring core and web, Maven, JUnit, Mockito, Android, Node.js</code>
 <code>❤️‍🩹 [Projects](PROJECTS.md)</code>
 <br>
