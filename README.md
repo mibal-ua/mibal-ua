@@ -7,5 +7,5 @@
 <br>
 <code>❤️‍🩹 [Projects](PROJECTS.md)</code>
 <br>
-<code>💬 telegram: [@mibal_ua](https://t.me/mibal_ua)</code>
 <code>📫 [9mohapx9@gmail.com](mailto:9mohapx9@gmail.com)</code>
+<code>💬 telegram: [@mibal_ua](https://t.me/mibal_ua)</code>
